@@ -3,7 +3,7 @@
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: softeng-cn-hz-2c8g-node002
   # standalone mode
   client:
     registerWithEureka: false
